@@ -130,10 +130,4 @@ dmypy.json
 *.py
 *.xml
 *.iml
-*.py
-*.py
-*.py
-*.py
-*.py
-*.py
-*.py
+/message/
