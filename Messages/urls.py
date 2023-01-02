@@ -20,5 +20,5 @@ from message.views import form
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('from/', form),
+    # path('from/', form),
 ]
