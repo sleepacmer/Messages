@@ -130,4 +130,17 @@ dmypy.json
 *.py
 *.xml
 *.iml
+<<<<<<< Updated upstream
 /message/
+=======
+*.py
+*.py
+*.py
+*.py
+*.py
+*.py
+*.py
+*.css
+*.html
+*.html
+>>>>>>> Stashed changes
